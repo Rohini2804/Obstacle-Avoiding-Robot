@@ -3,6 +3,11 @@
 # Obstacle Avoidance Robotic Vehicle using Ultrasonic Sensors
 
 ## Project Overview
+<img width="275" alt="Screenshot 2023-12-02 at 7 49 12 PM" src="https://github.com/Rohini2804/Obstacle-Avoiding-Robot/assets/117753090/0f443ba5-f718-42a1-b9ff-9b92e22ded4c">
+
+
+
+
 
 This project involves the development of a robotic vehicle capable of autonomously navigating while avoiding obstacles in its path. The vehicle is equipped with ultrasonic sensors for real-time detection of obstacles, and a micro-controller is utilized to control its movements.
 
