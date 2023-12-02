@@ -1,7 +1,4 @@
 # Obstacle-Avoiding-Robot
-Certainly! Here's a sample README file that could provide information about your obstacle avoidance robotic vehicle project:
-
----
 
 # Obstacle Avoidance Robotic Vehicle using Ultrasonic Sensors
 
@@ -50,14 +47,4 @@ The project consists of the following main components:
 2. Refer to the respective sections for hardware setup, software implementation, and operation instructions.
 3. Follow the instructions provided to set up the robotic vehicle and run the code.
 
-## Contributors
 
-- [List of team members or contributors involved in the project]
-
-## License
-
-[Specify the license under which the project is shared, if applicable]
-
----
-
-Feel free to adjust or expand upon this template to suit the specific details and requirements of your project.
